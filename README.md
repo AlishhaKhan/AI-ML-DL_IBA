@@ -86,4 +86,28 @@ AI-ML-DL_IBA/
 
 └── Self_Learning/
 
+# Tech Stack
+Python
 
+NumPy
+
+Pandas
+
+Matplotlib
+
+Scikit-learn
+
+NLTK
+
+Colab Notebook
+
+# Goals
+Build strong conceptual understanding
+
+Practice real-world implementation
+
+Maintain organized technical documentation
+
+Develop industry-level AI/ML skills
+
+Create a strong foundation for advanced AI systems
