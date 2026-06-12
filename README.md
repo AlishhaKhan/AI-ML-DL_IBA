@@ -61,11 +61,29 @@ Model Architectures and Training Concepts
 
 # Repository Structure
 AI-ML-DL_IBA/ 
-│ ├── machine-learning/ 
-├── natural-language-processing/ 
-├── deep-learning/ 
-├── datasets/ 
-├── notebooks/ 
-├── projects/ 
-├── notes/ 
-└── self-learning/
+
+│ ├── Python_Lecture/ 
+
+├── ML_Lecture/
+
+├── ML_Experiment/
+
+├── NLP/
+
+├── Deep_Learning/
+
+├── Assignments_Quizes/
+
+├── Certificates/
+
+├── Datasets/
+
+├── Exams/
+
+├── Numpy/
+
+├── Pandas/
+
+└── Self_Learning/
+
+
