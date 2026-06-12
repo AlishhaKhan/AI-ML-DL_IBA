@@ -55,7 +55,7 @@ Traditional NLP Approaches
 # Deep Learning
 Neural Network Fundamentals
 
-Upcoming Deep Learning Implementations
+Activation Functions
 
 Model Architectures and Training Concepts
 
