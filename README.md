@@ -4,12 +4,19 @@ A structured repository documenting my learning journey in Artificial Intelligen
 This repository contains:
 
 Concept notes
+
 Practice notebooks
+
 Machine Learning algorithms
+
 NLP fundamentals
+
 Deep Learning learning materials
+
 Datasets and experiments
+
 Hands-on implementations
+
 Self-learning resources and projects
 
 The purpose of this repository is to maintain a complete record of my technical growth, learning process, experiments, and implementation practice while building strong foundations in AI and Data Science.
@@ -17,26 +24,48 @@ The purpose of this repository is to maintain a complete record of my technical 
 # Topics Covered
 # Machine Learning
 Regression
+
 Classification
+
 Model Evaluation
+
 Hyperparameter Tuning
+
 Ensemble Learning
+
 Unsupervised Learning
+
 Clustering
+
 Dimensionality Reduction
 
 # Natural Language Processing (NLP)
 Text Preprocessing
+
 Feature Extraction
+
 Bag of Words
+
 TF-IDF
+
 NLP Pipelines
+
 Traditional NLP Approaches
 
 # Deep Learning
 Neural Network Fundamentals
+
 Upcoming Deep Learning Implementations
+
 Model Architectures and Training Concepts
 
 # Repository Structure
-AI-ML-DL_IBA/ │ ├── machine-learning/ ├── natural-language-processing/ ├── deep-learning/ ├── datasets/ ├── notebooks/ ├── projects/ ├── notes/ └── self-learning/
+AI-ML-DL_IBA/ 
+│ ├── machine-learning/ 
+├── natural-language-processing/ 
+├── deep-learning/ 
+├── datasets/ 
+├── notebooks/ 
+├── projects/ 
+├── notes/ 
+└── self-learning/
