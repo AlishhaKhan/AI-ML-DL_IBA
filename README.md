@@ -1,2 +1,42 @@
-# IBA_AI_ML_Practice
-A curated collection of my AI, Machine Learning, and Deep Learning practice work completed during my learning journey at IBA. This repository includes hands-on exercises, model experimentation, data analysis tasks, and practical implementations using Python and real-world datasets.
+# AI-ML-DL_IBA
+A structured repository documenting my learning journey in Artificial Intelligence, Machine Learning, and Deep Learning through the IBA roadmap and additional guided learning resources.
+
+This repository contains:
+
+Concept notes
+Practice notebooks
+Machine Learning algorithms
+NLP fundamentals
+Deep Learning learning materials
+Datasets and experiments
+Hands-on implementations
+Self-learning resources and projects
+
+The purpose of this repository is to maintain a complete record of my technical growth, learning process, experiments, and implementation practice while building strong foundations in AI and Data Science.
+
+# Topics Covered
+# Machine Learning
+Regression
+Classification
+Model Evaluation
+Hyperparameter Tuning
+Ensemble Learning
+Unsupervised Learning
+Clustering
+Dimensionality Reduction
+
+# Natural Language Processing (NLP)
+Text Preprocessing
+Feature Extraction
+Bag of Words
+TF-IDF
+NLP Pipelines
+Traditional NLP Approaches
+
+# Deep Learning
+Neural Network Fundamentals
+Upcoming Deep Learning Implementations
+Model Architectures and Training Concepts
+
+# Repository Structure
+AI-ML-DL_IBA/ │ ├── machine-learning/ ├── natural-language-processing/ ├── deep-learning/ ├── datasets/ ├── notebooks/ ├── projects/ ├── notes/ └── self-learning/
